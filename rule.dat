@@ -1,0 +1,48 @@
+ H2  H3  L1  M3 ~M1 ~H1 ~L2 ~M2 ~L3    35   11 
+ H2  H3  L1 ~M3 ~M1 ~H1 ~L2 ~M2 ~L3    35   18 
+ H2  H3 ~L1  H1  M3  M1  M2 ~L2 ~L3     5   2 
+ H2  H3 ~L1  H1  M3  M1 ~M2 ~L2 ~L3     5   9 
+ H2  H3 ~L1  H1  M3 ~M1  M2 ~L2 ~L3     1   2 
+ H2  H3 ~L1  H1  M3 ~M1 ~M2 ~L2 ~L3     5   3 
+ H2  H3 ~L1  H1 ~M3  M1 ~L2 ~M2 ~L3     5   2 
+ H2  H3 ~L1  H1 ~M3 ~M1 ~L2 ~M2 ~L3     5   3 
+ H2  H3 ~L1 ~H1  M1  M3 ~L2  M2 ~L3     5   1 
+ H2  H3 ~L1 ~H1  M1  M3 ~L2 ~M2 ~L3     5   1 
+ H2  H3 ~L1 ~H1  M1 ~M3 ~L2 ~M2 ~L3     5   3 
+ H2 ~H3  M2  H1  M1  M3 ~L1 ~L2 ~L3    15   4 
+ H2 ~H3  M2  H1  M1 ~M3  L3 ~L1 ~L2    15   2 
+ H2 ~H3  M2  H1 ~M1  L3 ~L1 ~L2 ~M3     1   2 
+ H2 ~H3  M2  H1 ~M1 ~L3  M3 ~L1 ~L2     1   1 
+ H2 ~H3  M2 ~H1  L1  M3 ~M1 ~L2 ~L3    35   3 
+ H2 ~H3  M2 ~H1 ~L1  M1  M3 ~L2 ~L3     5   2 
+ H2 ~H3 ~M2  M3  M1  H1 ~L1 ~L2 ~L3     5   2 
+ H2 ~H3 ~M2  M3  M1 ~H1 ~L1 ~L2 ~L3     5   1 
+ H2 ~H3 ~M2  M3 ~M1  L1 ~H1 ~L2 ~L3    35   2 
+ H2 ~H3 ~M2  M3 ~M1 ~L1  H1 ~L2 ~L3     5   1 
+~H2  L2  L1  M3  H3 ~M1 ~H1 ~M2 ~L3    46   13 
+~H2  L2  L1  M3 ~H3 ~M1 ~H1  M2 ~L3    14   2 
+~H2  L2  L1  M3 ~H3 ~M1 ~H1 ~M2 ~L3     4   9 
+~H2  L2  L1 ~M3  L3 ~M1 ~H1  M2 ~H3     4   1 
+~H2  L2  L1 ~M3  L3 ~M1 ~H1 ~M2 ~H3    46   11 
+~H2  L2 ~L1  H1  M3  H3  M1 ~M2 ~L3     6   9 
+~H2  L2 ~L1  H1  M3  H3 ~M1  M2 ~L3     2   4 
+~H2  L2 ~L1  H1  M3  H3 ~M1 ~M2 ~L3    26   4 
+~H2  L2 ~L1  H1  M3 ~H3 ~M1  M2 ~L3     2   4 
+~H2  L2 ~L1  H1  M3 ~H3 ~M1 ~M2 ~L3     2   2 
+~H2  L2 ~L1  H1 ~M3  L3  M1  M2 ~H3     6   1 
+~H2  L2 ~L1  H1 ~M3  L3  M1 ~M2 ~H3     6   3 
+~H2  L2 ~L1  H1 ~M3  L3 ~M1  M2 ~H3   126   8 
+~H2  L2 ~L1  H1 ~M3 ~L3  H3  M1 ~M2     6   2 
+~H2  L2 ~L1  H1 ~M3 ~L3  H3 ~M1 ~M2     6   1 
+~H2  L2 ~L1 ~H1  M1  H3  M3 ~M2 ~L3     6   2 
+~H2  L2 ~L1 ~H1  M1  H3 ~M3 ~M2 ~L3     6   1 
+~H2  L2 ~L1 ~H1  M1 ~H3  M3 ~M2 ~L3    46   2 
+~H2  L2 ~L1 ~H1  M1 ~H3 ~M3 ~M2  L3     6   4 
+~H2 ~L2  H1  M2  L3  M1 ~L1 ~M3 ~H3     4   1 
+~H2 ~L2  H1  M2  L3 ~M1 ~L1 ~M3 ~H3    12   9 
+~H2 ~L2  H1  M2 ~L3  M3  M1  H3 ~L1     6   1 
+~H2 ~L2  H1  M2 ~L3  M3  M1 ~H3 ~L1     4   1 
+~H2 ~L2  H1  M2 ~L3  M3 ~M1 ~L1 ~H3     2   1 
+~H2 ~L2 ~H1  M3  M1  M2 ~L1 ~L3 ~H3     5   1 
+~H2 ~L2 ~H1  M3 ~M1  M2  L1 ~L3 ~H3     5   1 
+~H2 ~L2 ~H1 ~M3  M2  L1 ~M1  L3 ~H3     6   1 
